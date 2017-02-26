@@ -18,7 +18,7 @@ email: paul1.billot@epitech.eu
 description: > # SchoolWork, Snippets and other experimentation !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Billot_P
+github_username:  billot
 
 # Build settings
 markdown: kramdown
